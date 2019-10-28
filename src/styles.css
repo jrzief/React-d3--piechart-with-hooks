@@ -7,7 +7,7 @@
 
 .App::after {
   content: '';
-  background: url('https://media.giphy.com/media/SCEH0M0fMntBK/giphy.gif');
+  background: url('https://giphy.com/gifs/abstract-math-gif-artist-xULW8OofuT5CAhTVWU');
   background-size: cover;
   filter: blur(5px);
   opacity: 0.9;
